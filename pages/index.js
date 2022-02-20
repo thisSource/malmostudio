@@ -52,7 +52,7 @@ export default function Home() {
           height={1500}
         />
       </div>
-      <p className="absolute lg:top-56 top-36 left-2/4 transform -translate-x-1/2 -translate-y-1/2 lg:text-15xl text-7xl font-semi-bold text-white">MALMÖ</p>
+      <p className="absolute lg:top-56 top-52 left-2/4 transform -translate-x-1/2 -translate-y-1/2 lg:text-15xl text-7xl font-semi-bold text-white">MALMÖ</p>
       <p className="absolute bg-gray-500 p-2 lg:top-3/4 top-80 left-1/2 transform -translate-x-1/2 -translate-y-1/2 lg:text-2xl text-sm whitespace-normal font-semi-bold text-white text-center">Professional studio for photography and film in the heart of Malmö industrial harbour</p>
       <div className="grid lg:grid-cols-2 gap-5 ml-10 mr-10 mt-10 mb-10">
           {service.map((campaign) => (
