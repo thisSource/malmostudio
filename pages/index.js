@@ -46,9 +46,9 @@ export default function Home() {
           height={1500}
         />
         <Image
-          src="/images/studio2.jpg"
+          src="/images/4.jpg"
           alt="Picture of studio"
-          width={1000}
+          width={950}
           height={1500}
         />
       </div>
